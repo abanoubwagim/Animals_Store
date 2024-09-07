@@ -29,12 +29,14 @@ A class called Animal , has Three attributes, It abstract class.
 
 A Dogs inherits from a Class Animal, has an ArrayList called dogsArrayList and Constructor takes Three parameters and also overrides two methods from a superclass (Animal).
 
-A Cats inherits from a Class Animal, has an ArrayList called catsArrayList and Constructor takes Three parameters, and also Overrides Two methods from a superclass (Animal).
+A Cats inherits from a Class Animal, has an ArrayList called catsArrayList and Constructor takes Three parameters and also overrides Two methods from a superclass (Animal).
 
 A Birds inherits from a Class Animal, has an ArrayList called birdsArrayList and Constructor takes Three parameters, and also Overrides Two methods from a superclass (Animal).
 
 
 
 
+
+This project was worked on by IntelliJ.
 
 

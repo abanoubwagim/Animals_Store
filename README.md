@@ -37,6 +37,6 @@ A Birds inherits from a Class Animal, has an ArrayList called birdsArrayList and
 
 
 
-This project was worked on by IntelliJ.
+This project was worked on by IntelliJ IDEA Community Edition.
 
 
